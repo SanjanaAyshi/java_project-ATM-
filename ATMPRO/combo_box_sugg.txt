@@ -1,0 +1,7 @@
+Uneducated =nc
+Diploma=nc
+Under HSE=pu
+Undergraduate=ug
+Masters=pg
+PHD
+nazneenaminruhani@gmail.com
